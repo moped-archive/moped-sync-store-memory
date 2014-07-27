@@ -2,7 +2,7 @@
   "name": "moped-sync-store-memory",
   "version": "0.0.0",
   "description": "In memory sync store for moped-sync",
-  "keywords": [],
+  "keywords": ["moped", "moped-sync"],
   "dependencies": {
     "clone": "^0.1.17",
     "mongomatch": "^0.1.0",
