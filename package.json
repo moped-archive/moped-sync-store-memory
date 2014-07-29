@@ -8,7 +8,7 @@
     "mongomatch": "^0.1.0",
     "moped-apply-update": "0.0.1",
     "moped-id": "0.0.1",
-    "moped-sync-store-base": "0.0.3",
+    "moped-sync-store-base": "0.0.4",
     "promise": "^5.0.0"
   },
   "devDependencies": {},
